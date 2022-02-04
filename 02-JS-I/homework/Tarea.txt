@@ -1,0 +1,22 @@
+Variable: Como veriamos auna variable, yo lo demostraria como una caja donde puedes poner cualquier cosa, donde
+despues puedes volver a tomar lo que dejaste para usarlo o recordar que habia allí.
+
+String: Una string se le puede llamar asi a cualquier tipo de texto o numero, pero algo interesante es que el
+texto debe de ir encerrado entre unas comillas de cierta forma para diferenciarlo y lo raro con los numero es
+que van asi como si nada, es como si el texto fuera en tuppers y los numero fueran cubos de madera con los
+numeros ya puestos.
+
+Funciones: Como se puede describir una funcion, bueno en este caso volvemos a la variable o la "caja" como ya le
+habia llamado yo, que seria digamos ponemos algo en la caja y con la palabra funcion pegada al objeto que pongamos 
+en la caja podemos volver a ver el objeto en otra parte del codigo para que se haga algo con este texto o asi 
+podemos hacer que obtenga un dato, este tipo de funcion debe de ir acompañada de sus amigos los parentesis y 
+corchetes "()" "{}" donde  enmedio de los corchertes ira nuestro codigo para hacer que la funcion haga algo.
+Tambien en este punto ya se pueden agregar argumentos o variables que iran enmedio de los parentesis.
+Hay tambien hay una palabra en la programacion que se llama "return" pero  que hace esta palabra, bueno digamos
+hacemos la suma 2+2 en nuestro codigo pero queremos ver el resultado, la maquina ya lo sabe pero nosotros no,
+en estre caso ocupaso la palabra "return" para que nos muestre ese valor.
+
+If: que son los if, es algo bastante sencillo de explicar digamos que le pides a tus padres unas papas o un 
+dulce solo que puedes obtener solo una cosa.
+
+Valores booleanos: un valor booleano es 1's  y 0's, que representaremos en nuestro codigo como true=1 y false=0
