@@ -1,0 +1,11 @@
+Que es un ciclo "for", es una forma de apilar legos, hasta que obtienes una torre de un tamaño, y obviamente
+repites el proceso de poner uno sobre otro hasta obtener el resultado que esperas o se te pide.
+
+"&&" Es una forma de comparar dos tareas, como 10 es menor que 100 y 10 es igual a 10, pero solo si estas dos
+tareas se cumplen te otorgara un valor bueno(verdadero).
+
+"||" este es parecido al de arriba solo que un poco mas diferente, aqui con que una las tareas se cumpla pasara
+a otorgarte el bueno(verdadero).
+
+"!" y este me recuerda a el dia opuesto, donde si algo es verdad, te dara el valor contrario como en su caso
+un falso y asi si lo volteas, si pones un falso te dara un verdadero.
