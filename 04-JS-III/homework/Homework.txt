@@ -1,0 +1,6 @@
+Un array seria un una caja en la cual puedes poner cosas y se van numerando desde 0 en adelante hasta la cantidad de 
+objetos que tengas,  por ejemplo: Variable array['Lucas','Martin','Eduardo','Oscar','Felipe','Juan','Maria']
+| | | | | | | | | | | | | | | | | | | | | | | | |   0        1        2        3        4       5       6
+Con este ejemplo se puede ver claramente que tenemos 7 objetos, pero para llamarlos es hasta el numero 6 por ejemplo:
+array[2] ===> 'Eduardo' o array[6] ===> Maria.
+Asi tambien si se requiere llamar a otro objeto solo cambiamos lo que va dentro de '[]'.
