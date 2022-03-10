@@ -60,13 +60,10 @@ function saludo(idioma) {
  switch(idioma){
    case "aleman":
    return "Guten Tag!";
-   break;
    case "mandarin":
    return "Ni Hao!";
-   break;
    case "ingles":
    return "Hello!"
-   break;
    default:
      return "Hola!"
  }
@@ -95,16 +92,12 @@ function colors(color) {
   switch (color){
     case "blue":
       return "This is blue";
-      break;
     case "red":
       return "This is red";
-      break;
     case "green":
       return "This is green";
-      break;
     case "orange":
       return "This is orange";
-      break;
     default:
       return "Color not found";
   }
@@ -150,11 +143,11 @@ function fizzBuzz(numero) {
   // Si "numero" es divisible entre 3 y 5 (ambos), devuelve "fizzbuzz"
   // De lo contrario, devuelve el numero
   if (numero %3===0 && numero %5===0){
-    return "fizzbuzz"
+    return "fizzbuzz";
   }else if (numero %3===0){
-    return "fizz"
+    return "fizz";
   }else if(numero %5===0){
-    return "buzz"
+    return "buzz";
   }else
   return numero
 }
@@ -195,9 +188,9 @@ function esVerdadero(valor){
   //Escribe una función que reciba un valor booleano y retorne “Soy verdadero” 
   //si su valor es true y “Soy falso” si su valor es false.
   //Escribe tu código aquí
-  if(valor === true){
+  if(valor){
     return "Soy verdadero"
-  }else if(valor === false){
+  }else if(valor){
     return "Soy falso"
   }
 }
@@ -228,8 +221,9 @@ function doWhile(numero) {
   //Usar el bucle do ... while.
   var i = 0;
   do {
-    numero = numero + 5;
-    i = i+1;
+    i++;
+    numero += 5;
+    
   }while(i<8);
   return numero;
 }
